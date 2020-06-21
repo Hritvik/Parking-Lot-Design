@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Hritv
- *
- */
-module ParkingLotDesign {
-}
